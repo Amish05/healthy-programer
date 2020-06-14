@@ -1,5 +1,5 @@
-# healthy-programer
- hello friends my name is Amish Ali  and in this program i solve a problem for the health of a programer.
+# healthy-programmer
+ hello friends my name is Amish Ali  and in this program i solve a problem for the health of a programmer.
 this program will worked on linux os i test it on parrot OS (linux). 
 it also work on other linux OS. like
   - Ubuntu
