@@ -11,10 +11,10 @@ it also work on other linux OS. like
   - it take your name and save audio file in your working dir.
   - it save a history file of your exercise.
   - if some one delete your audio files than it will make these file when you run this program next time.
-# MODUEL USED IN PROGRAM:
-| MODUEL | INSTALL |
+# MODULE USED IN PROGRAM:
+| MODULE | INSTALL |
 | ------ | ------ |
-| OS | bulit-in moudel |
+| OS | bulit-in module |
 | PyAutoGUI| https://pypi.org/project/PyAutoGUI |
 | Time | https://pypi.org/project/time/
 | Threading| https://pypi.org/project/threading2 |
