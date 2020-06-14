@@ -80,7 +80,7 @@ if __name__ == '__main__':
     welcome()
     while(True):
         if(time_condi>=9 and time_condi<10):
-            time.sleep(10)
+            time.sleep(1800)
             a="n"
             while(a.lower() !='y'):
                 eyes_exe()
@@ -89,7 +89,7 @@ if __name__ == '__main__':
                 a=input("\n\tIf you done eyes exercise then press y to stop:")
             eyes="You done eyes exercise"
             history_file(eyes)
-            time.sleep(10)
+            time.sleep(time_to_drink)
             a="n"
             while(a.lower() !='y'):
                 drink_water()
@@ -98,7 +98,7 @@ if __name__ == '__main__':
                 a=input("\n\tIf you drank water then press y to stop:")
             water="You drank water"
             history_file(water)
-            time.sleep(10)
+            time.sleep(300)
             a="n"
             while(a.lower() !='y'):
                 body_exe()
