@@ -11,8 +11,8 @@ it also work on other linux OS. like
   - it take your name and save audio file in your working dir.
   - it save a history file of your exercise.
   - if some one delete your audio files than it will make these file when you run this program next time.
-# MOUDEL USED IN PROGRAM:
-| MOUDEL | INSTALL |
+# MODEL USED IN PROGRAM:
+| MODEL | INSTALL |
 | ------ | ------ |
 | OS | bulit-in moudel |
 | PyAutoGUI| https://pypi.org/project/PyAutoGUI |
